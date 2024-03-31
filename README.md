@@ -10,16 +10,16 @@ Payment Integration: Integrated payment gateway for processing payments.<br>
 Admin Panel: Separate admin interface for managing products, orders, and users.<br>
 Responsive Design: Designed to be responsive and accessible across devices.<br>
 
-#Installation
+# Installation
 Clone the repository: git clone https://github.com/E-commerece.git<br>
 Set up the MySQL database and configure the application properties.<br>
 Run the application: mvn spring-boot:run
 
-#Technologies Used
+# Technologies Used
 Frontend: HTML, CSS, JavaScript, Thymeleaf<br>
 Backend: Spring Boot, MySQL,Spring security
 
-#Acknowledgements
+# Acknowledgements
 I followed udemy tutorial of Namhaminh to learn this project.
 
 
