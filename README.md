@@ -1,4 +1,4 @@
-# E-commerece
+# E-commerce
 This is an e-commerce web application built using monolithic architecture. It includes frontend and backend components, with the frontend developed using HTML, CSS, JavaScript, and Thymeleaf, and the backend using MySQL for the database and Spring Boot.
 
 # Features
